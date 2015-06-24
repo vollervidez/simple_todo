@@ -1,1 +1,1 @@
-Simple todo list made with jQuery!
+Simple JS todo!
